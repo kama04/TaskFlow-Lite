@@ -1,0 +1,143 @@
+export const translations = {
+  ua: {
+    home: 'Головна',
+    about: 'Про проєкт',
+    contact: 'Контакти',
+    schedule: 'Розклад',
+    categories: 'Категорії',
+    light: 'Світла',
+    dark: 'Темна',
+    productivityManager: 'Productivity Manager',
+
+    addTask: 'Додати нову задачу',
+    title: 'Назва',
+    description: 'Опис',
+    priority: 'Пріоритет',
+    category: 'Категорія',
+    addButton: 'Додати задачу',
+    taskPlaceholder: 'Наприклад: Підготувати презентацію',
+    taskDescriptionPlaceholder: 'Короткий опис задачі',
+
+    filters: 'Фільтри',
+    search: 'Пошук',
+    searchPlaceholder: 'Пошук задач',
+    status: 'Статус',
+    reset: 'Скинути',
+    all: 'Усі',
+    active: 'Активні',
+    completed: 'Виконані',
+
+    total: 'Усього',
+    progress: 'Прогрес виконання',
+
+    startDate: 'Дата початку',
+    endDate: 'Дата завершення',
+
+    low: 'Низький',
+    medium: 'Середній',
+    high: 'Високий',
+
+    study: 'Навчання',
+    work: 'Робота',
+    personal: 'Особисте',
+    health: 'Здоровʼя',
+
+    noTasks: 'Немає задач',
+    delete: 'Видалити',
+    done: 'Готово',
+    inProgress: 'В роботі',
+    dragHint: 'Перетягни картку, щоб змінити порядок.',
+
+    aboutTitle: 'Про проєкт',
+    aboutText: 'TaskFlow Lite — це фронтенд-курсовий проєкт на React, Redux Toolkit і Vite для керування задачами, темою інтерфейсу та мовою.',
+
+    contactTitle: 'Контакти',
+    contactText: 'Демонстраційна сторінка контактів для курсового React-проєкту.',
+    email: 'Email',
+    phone: 'Телефон',
+    address: 'Адреса',
+
+    scheduleTitle: 'Розклад',
+    scheduleText: 'Демонстраційний календар для планування задач і подій.',
+    selectedDate: 'Обрана дата',
+    plans: 'Плани',
+    plan1: 'Робота над курсовим проєктом',
+    plan2: 'Оновлення README',
+    plan3: 'Перевірка UI та фільтрів',
+
+    categoriesTitle: 'Категорії',
+    emptyCategory: 'У цій категорії поки немає задач.',
+    categoryTitle: 'Категорія',
+  },
+
+  en: {
+    home: 'Home',
+    about: 'About',
+    contact: 'Contacts',
+    schedule: 'Schedule',
+    categories: 'Categories',
+    light: 'Light',
+    dark: 'Dark',
+    productivityManager: 'Productivity Manager',
+
+    addTask: 'Add new task',
+    title: 'Title',
+    description: 'Description',
+    priority: 'Priority',
+    category: 'Category',
+    addButton: 'Add task',
+    courseNote: 'The form is ready for a course project without a backend, with Redux Toolkit and localStorage.',
+    taskPlaceholder: 'For example: Prepare presentation',
+    taskDescriptionPlaceholder: 'Short task description',
+
+    filters: 'Filters',
+    search: 'Search',
+    searchPlaceholder: 'Search tasks',
+    status: 'Status',
+    reset: 'Reset',
+    all: 'All',
+    active: 'Active',
+    completed: 'Completed',
+
+    total: 'Total',
+    progress: 'Progress',
+
+    low: 'Low',
+    medium: 'Medium',
+    high: 'High',
+
+    study: 'Study',
+    work: 'Work',
+    personal: 'Personal',
+    health: 'Health',
+
+    noTasks: 'No tasks',
+    delete: 'Delete',
+    done: 'Done',
+    inProgress: 'In progress',
+    dragHint: 'Drag a card to change the order.',
+
+    aboutTitle: 'About project',
+    aboutText: 'TaskFlow Lite is a frontend course project built with React, Redux Toolkit, and Vite for managing tasks, theme, and language without page reloads.',
+
+    contactTitle: 'Contacts',
+    contactText: 'Demo contacts page for the React course project.',
+    email: 'Email',
+    phone: 'Phone',
+    address: 'Address',
+
+    scheduleTitle: 'Schedule',
+    scheduleText: 'Demo calendar for planning tasks and events.',
+    selectedDate: 'Selected date',
+    plans: 'Plans',
+    plan1: 'Course project work',
+    plan2: 'README update',
+    plan3: 'UI and filters check',
+
+    categoriesTitle: 'Categories',
+    emptyCategory: 'There are no tasks in this category yet.',
+    categoryTitle: 'Category',
+    start: 'Start',
+    end: 'End'
+  },
+};
